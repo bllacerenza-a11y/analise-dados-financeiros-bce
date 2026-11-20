@@ -1,0 +1,16 @@
+{
+  "series": "EXR.D.USD.EUR.SP00.A",
+  "quotation": "USD por 1 EUR",
+  "first_date": "2025-01-02",
+  "last_date": "2025-12-31",
+  "observations": 255,
+  "first_quote": 1.0321,
+  "last_quote": 1.175,
+  "quote_change_pct": 13.85,
+  "lowest_quote": 1.0198,
+  "highest_quote": 1.1837,
+  "largest_daily_increase_pct": 2.72,
+  "largest_daily_decrease_pct": -1.3,
+  "daily_changes_over_2_std": 14,
+  "lowest_quote_drawdown_pct": -3.44
+}
